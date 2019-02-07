@@ -1,37 +1,37 @@
 # Petshop
 ## SS Web
 ### 1. home user
-![home](assets/sc/Screenshot29.png)
+![home](assets/sc/Screenshot (29).png)
 
 ### 2. Petmart
-![product](assets/sc/Screenshot30.png)
+![product](assets/sc/Screenshot (30).png)
 
 ### 3. kategori
-![kategori](assets/sc/Screenshot31.png)
+![kategori](assets/sc/Screenshot (31).png)
 
 ### 4. Contact us
-![kontak](assets/sc/Screenshot32.png)
+![kontak](assets/sc/Screenshot (32).png)
 
 ### 5. login user
-![login](assets/sc/Screenshot33.png)
+![login](assets/sc/Screenshot (33).png)
 
 ### 6. Cart
-![cart](assets/sc/Screenshot34.png)
+![cart](assets/sc/Screenshot (34).png)
 
 ### 7. User List admin
-![user-list](assets/sc/Screenshot35.png)
+![user-list](assets/sc/Screenshot (35).png)
 
 ### 8. Item List
-![item-list](assets/sc/Screenshot36.png)
+![item-list](assets/sc/Screenshot (36).png)
 
 ### 9. Add Item Admin
-![add-item](assets/sc/Screenshot37.png)
+![add-item](assets/sc/Screenshot (37).png)
 
 ### 10. Transaksi
-![transaksi](assets/sc/Screenshot38.png)
+![transaksi](assets/sc/Screenshot (38).png)
 
 ### 11. Edit Item
-![edit-item](assets/sc/Screenshot39.png)
+![edit-item](assets/sc/Screenshot (39).png)
 
 ###################
 What is CodeIgniter
