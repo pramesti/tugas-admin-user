@@ -33,6 +33,12 @@
 ### 11. Edit Item
 ![edit-item](assets/sc/Screenshot(39).png)
 
+### 11. Register
+![edit-item](assets/sc/Screenshot(40).png)
+
+### 11. Nota Pembelian
+![edit-item](assets/sc/Screenshot(41).png)
+
 ###################
 What is CodeIgniter
 ###################
